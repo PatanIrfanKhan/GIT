@@ -3,5 +3,6 @@ class sub {
     {
         int a=10,b=5;
         System.out.print(a-b);
+        System.out.println(a);
     }
 }
